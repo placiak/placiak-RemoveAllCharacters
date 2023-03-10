@@ -14,7 +14,7 @@ public class RemoveAllCharacter {
     public String removeAll(String str, String ch){
 
         String a = "" ;
-        //trouble completing..
+        //trouble completing
 
         return str.replaceAll(ch, a);
     }
